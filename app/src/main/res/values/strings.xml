@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="about_us_acercade">Acerca de ...</string>
+    <string name="equipo_de_desarrollo">Autores:</string>
+    <string name="equipo_1">Meneses Taipe Epifania</string>
+    <string name="equipo_2">Figueroa Mosco Nory</string>
+    <string name="equipo_3">Muñoz Santos Daysi</string>
 </resources>

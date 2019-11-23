@@ -47,11 +47,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal">
+
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Comprar">
-                </Button>
+                    android:background="#6C43FF"
+                    android:text="Comprar"
+                    android:textColor="#3CE1FF"
+                    android:textStyle="bold"></Button>
 
                 <ImageButton
                     android:layout_width="wrap_content"
